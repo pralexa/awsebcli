@@ -1,0 +1,165 @@
+# zappas configuration
+zappa_settings.json
+
+# Google Cloud
+google-cloud-sdk
+
+# retrieval models
+speech_assets/retrieval_model/
+
+# OS X
+.DS_Store
+
+# NGrok
+ngrok
+
+# IntelliJ
+.idea
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# dotenv
+.env
+
+# virtualenv
+venv/
+ENV/
+
+# Spyder project settings
+.spyderproject
+
+# Rope project settings
+.ropeproject
+conf.json
+.zip
+
+# Temp files
+*.swp
+*~
+pixie-env/pip-selfcheck.json
+pixie-env/bin/activate
+pixie-env/bin/activate.csh
+pixie-env/bin/activate.fish
+pixie-env/bin/activate_this.py
+pixie-env/bin/aws
+pixie-env/bin/aws.cmd
+pixie-env/bin/aws_bash_completer
+pixie-env/bin/aws_completer
+pixie-env/bin/aws_zsh_completer.sh
+pixie-env/bin/easy_install
+pixie-env/bin/easy_install-2.7
+pixie-env/bin/fb_restore
+pixie-env/bin/fb_save_base
+pixie-env/bin/fb_save_type
+pixie-env/bin/fcl
+pixie-env/bin/flask
+pixie-env/bin/gunicorn
+pixie-env/bin/gunicorn_paster
+pixie-env/bin/jp
+pixie-env/bin/jp.py
+pixie-env/bin/pbr
+pixie-env/bin/pip
+pixie-env/bin/pip2
+pixie-env/bin/pip2.7
+pixie-env/bin/pyrsa-decrypt
+pixie-env/bin/pyrsa-decrypt-bigfile
+pixie-env/bin/pyrsa-encrypt
+pixie-env/bin/pyrsa-encrypt-bigfile
+pixie-env/bin/pyrsa-keygen
+pixie-env/bin/pyrsa-priv2pub
+pixie-env/bin/pyrsa-sign
+pixie-env/bin/pyrsa-verify
+pixie-env/bin/python
+pixie-env/bin/python-config
+pixie-env/bin/python2
+pixie-env/bin/python2.7
+pixie-env/bin/rst2html.py
+pixie-env/bin/rst2html5.py
+pixie-env/bin/rst2latex.py
+pixie-env/bin/rst2man.py
+pixie-env/bin/rst2odt.py
+pixie-env/bin/rst2odt_prepstyles.py
+pixie-env/bin/rst2pseudoxml.py
+pixie-env/bin/rst2s5.py
+pixie-env/bin/rst2xetex.py
+pixie-env/bin/rst2xml.py
+pixie-env/bin/rstpep2html.py
+pixie-env/bin/virtualenv
+pixie-env/bin/wheel
+pixie-env/include/python2.7
+pixie-env/include/site/python2.7/greenlet/greenlet.h
