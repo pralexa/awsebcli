@@ -13,7 +13,7 @@ requires = ['pyyaml>=3.11',
             'setuptools >= 20.0',
             ## For docker-compose
             'docopt >= 0.6.1, < 0.7',
-            'requests >= 2.6.1, <= 2.9.1',
+            'requests >= 2.6.1, <= 2.15.0',
             'websocket-client >= 0.11.0, < 1.0',
             'docker-py >= 1.1.0, <= 1.7.2',
             'dockerpty >= 0.3.2, <= 0.4.1',
